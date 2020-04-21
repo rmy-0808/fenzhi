@@ -1,0 +1,23 @@
+{
+  "name": "0421day02",
+  "version": "1.0.0",
+  "description": "练习分支",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmy-0808/fenzhi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmy-0808/fenzhi/issues"
+  },
+  "homepage": "https://github.com/rmy-0808/fenzhi#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
